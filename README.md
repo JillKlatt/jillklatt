@@ -22,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jillklatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jillklatt" height="30" width="40" /></a>
-<a href="https://twitter.com/mrsmctaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mrsmctaco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jill-klatt-39b2a9200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jill-klatt-39b2a9200/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15797219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15797219" height="30" width="40" /></a>
-<a href="https://fb.com/jillklatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="jillklatt" height="30" width="40" /></a>
-<a href="https://instagram.com/junglejillyhicks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="junglejillyhicks" height="30" width="40" /></a>
+<a href="https://twitter.com/mrsmctaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrsmctaco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jill-klatt-39b2a9200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jill-klatt-39b2a9200/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15797219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15797219" height="30" width="40" /></a>
+<a href="https://fb.com/jillklatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jillklatt" height="30" width="40" /></a>
+<a href="https://instagram.com/junglejillyhicks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junglejillyhicks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
