@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Flatiron Phase 5 Final Project**
 
-- 🌱 I’m currently learning **REACT, JSX**
+- 🌱 I’m currently learning **Redux, JSX**
 
 - 📝 I regularly write articles on [https://dev.to/jillklatt](https://dev.to/jillklatt)
 
-- 💬 Ask me about **Ruby on Rails, Sinatra, Dungeons and Dragons**
+- 💬 Ask me about **React, Redux, Ruby on Rails, Sinatra, Dungeons and Dragons**
 
 - 📫 How to reach me **klatt.jill@gmail.com**
 
