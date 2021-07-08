@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jill Klatt</h1>
-<h3 align="center">Flatiron Full Stack Software Engineering Student</h3>
+<h3 align="center">Flatiron Full Stack Software Engineering Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jillklatt&label=Profile%20views&color=0e75b6&style=flat" alt="jillklatt" /> </p>
 
