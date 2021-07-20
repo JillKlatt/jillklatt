@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jillklatt" alt="jillklatt" /></a> </p>
 
-- 🔭 I’m currently working on **Flatiron Phase 5 Final Project**
+<!-- - 🔭 I’m currently working on ** -->
 
-- 🌱 I’m currently learning **Redux, JSX**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://dev.to/jillklatt](https://dev.to/jillklatt)
 
