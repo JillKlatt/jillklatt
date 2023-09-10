@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jill Klatt</h1>
-<h3 align="center">BORN Group || Front End Associate</h3>
+<h3 align="center">BORN Group || Salesforce Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jillklatt&label=Profile%20views&color=0e75b6&style=flat" alt="jillklatt" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/jillklatt](https://dev.to/jillklatt)
 
-- 💬 Ask me about **React, Redux, Ruby on Rails, Sinatra, Dungeons and Dragons**
+- 💬 Ask me about **React, Node, SFRA, PWA Kit, Ruby on Rails, Dungeons and Dragons**
 
 - 📫 How to reach me **klatt.jill@gmail.com**
 
