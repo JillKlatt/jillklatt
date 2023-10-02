@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on ** -->
 
-- 🌱 I’m currently learning **SFCC**
+- 🌱 I’m currently learning **React Three Fiber**
 
 - 📝 I regularly write articles on [https://dev.to/jillklatt](https://dev.to/jillklatt)
 
